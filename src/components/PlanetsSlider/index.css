@@ -1,0 +1,13 @@
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.heading {
+  font-family: 'roboto';
+  font-size: 35px;
+  color: #05acff;
+  text-align: center;
+}
